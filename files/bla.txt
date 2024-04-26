@@ -1,0 +1,2 @@
+sensor-id,humidity
+s1,100000
